@@ -73,26 +73,6 @@
     { "id": 27, "label": "Krajan Karangwage" },
     { "id": 28, "label": "Lokavec" },
     { "id": 29, "label": "Paucarcolla" },
-    { "id": 30, "label": "Qingquan" },
-    { "id": 31, "label": "Hanover" },
-    { "id": 32, "label": "Yangjiafang" },
-    { "id": 33, "label": "Rîbniţa" },
-    { "id": 34, "label": "Yeliguan" },
-    { "id": 35, "label": "Kalanguy" },
-    { "id": 36, "label": "Metulla" },
-    { "id": 37, "label": "Těšetice" },
-    { "id": 38, "label": "Quintães" },
-    { "id": 39, "label": "Sumberkertokrajan" },
-    { "id": 40, "label": "Strängnäs" },
-    { "id": 41, "label": "Tallaght" },
-    { "id": 42, "label": "Jinxiang" },
-    { "id": 43, "label": "Nunsena" },
-    { "id": 44, "label": "Zhagang" },
-    { "id": 45, "label": "Armenta" },
-    { "id": 46, "label": "Ankazondandy" },
-    { "id": 47, "label": "Taoyuan" },
-    { "id": 48, "label": "Nijmegen" },
-    { "id": 49, "label": "Ruihong" },
-    { "id": 50, "label": "Waenenda" }
+    { "id": 30, "label": "Qingquan" }
   ]
 }
