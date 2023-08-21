@@ -74,5 +74,43 @@
     { "id": 28, "label": "Lokavec" },
     { "id": 29, "label": "Paucarcolla" },
     { "id": 30, "label": "Qingquan" }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "class": 1,
+      "letter": "А",
+      "students": 25,
+      "years": "2022-2023",
+      "mentor": "Константинопольский К. И.",
+      "pic": "https://placehold.co/1920x1080"
+    },
+    {
+      "id": 2,
+      "class": 2,
+      "letter": "Б",
+      "students": 35,
+      "years": "2021-2022",
+      "mentor": "Тестов К. И.",
+      "pic": "https://placehold.co/1920x1080"
+    },
+    {
+      "id": 3,
+      "class": 3,
+      "letter": "В",
+      "students": 15,
+      "years": "2020-2021",
+      "mentor": "Тестовов К. И.",
+      "pic": "https://placehold.co/1920x1080"
+    },
+    {
+      "id": 4,
+      "class": 4,
+      "letter": "Г",
+      "students": 20,
+      "years": "2019-2020",
+      "mentor": "Тестовов К. И.",
+      "pic": "https://placehold.co/1920x1080"
+    }
   ]
 }
